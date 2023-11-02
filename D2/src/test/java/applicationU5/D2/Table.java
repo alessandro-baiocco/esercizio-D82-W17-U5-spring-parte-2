@@ -1,6 +1,5 @@
-package applicationU5.D2.entities;
+package applicationU5.D2;
 
-import applicationU5.D2.enums.TableStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.springframework.stereotype.Component;

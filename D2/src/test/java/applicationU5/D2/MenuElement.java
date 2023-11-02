@@ -1,9 +1,7 @@
-package applicationU5.D2.entities;
+package applicationU5.D2;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-
-import java.util.List;
 
 @Getter
 @NoArgsConstructor

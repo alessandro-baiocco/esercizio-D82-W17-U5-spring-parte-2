@@ -1,11 +1,7 @@
-package applicationU5.D2.entities;
+package applicationU5.D2;
 
-import applicationU5.D2.enums.OrderStatus;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 
